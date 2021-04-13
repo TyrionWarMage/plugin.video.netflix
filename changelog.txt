@@ -1,3 +1,8 @@
+v1.15.1 (2021-04-13)
+- Last missing changes applied to IPC
+- Fixed regression to ESN/Widevine window
+- Minor changes
+
 v1.15.0 (2021-04-02)
 NOTICE TO PARENTAL CONTROL:
 THE OLD PARENTAL CONTROL WITH PIN IS NO LONGER SUPPORTED,
